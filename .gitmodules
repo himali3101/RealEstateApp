@@ -7,3 +7,6 @@
 [submodule "Login"]
 	path = Login
 	url = https://github.com/himali3101/Login
+[submodule "BuyOrSell"]
+	path = BuyOrSell
+	url = https://github.com/himali3101/BuyOrSell
