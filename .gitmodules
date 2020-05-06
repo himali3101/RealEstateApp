@@ -10,3 +10,6 @@
 [submodule "BuyOrSell"]
 	path = BuyOrSell
 	url = https://github.com/himali3101/BuyOrSell
+[submodule "ProfileManagement"]
+	path = ProfileManagement
+	url = https://github.com/himali3101/ProfileManagement
