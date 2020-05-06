@@ -13,3 +13,6 @@
 [submodule "ProfileManagement"]
 	path = ProfileManagement
 	url = https://github.com/himali3101/ProfileManagement
+[submodule "PropertyManagement"]
+	path = PropertyManagement
+	url = https://github.com/himali3101/PropertyManagement
