@@ -1,3 +1,6 @@
 [submodule "NetflixEurekaServer"]
 	path = NetflixEurekaServer
 	url = https://github.com/himali3101/NetflixEurekaServer
+[submodule "AnalysisReport"]
+	path = AnalysisReport
+	url = https://github.com/himali3101/AnalysisReport
