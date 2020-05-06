@@ -4,3 +4,6 @@
 [submodule "AnalysisReport"]
 	path = AnalysisReport
 	url = https://github.com/himali3101/AnalysisReport
+[submodule "Login"]
+	path = Login
+	url = https://github.com/himali3101/Login
