@@ -16,3 +16,6 @@
 [submodule "PropertyManagement"]
 	path = PropertyManagement
 	url = https://github.com/himali3101/PropertyManagement
+[submodule "Zuul"]
+	path = Zuul
+	url = https://github.com/himali3101/Zuul
